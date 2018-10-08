@@ -1,6 +1,0 @@
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalogDataAccess.deps.json
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalogDataAccess.dll
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalogDataAccess.csprojAssemblyReference.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalogDataAccess.csproj.CoreCompileInputs.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalogDataAccess.AssemblyInfoInputs.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalogDataAccess.AssemblyInfo.cs
