@@ -1,9 +1,0 @@
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\bin\Debug\netcoreapp2.1\BGCatalog.Models.deps.json
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\bin\Debug\netcoreapp2.1\BGCatalog.Models.dll
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\bin\Debug\netcoreapp2.1\BGCatalog.Models.pdb
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.csprojAssemblyReference.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.csproj.CoreCompileInputs.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.AssemblyInfoInputs.cache
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.AssemblyInfo.cs
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.dll
-C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog.Models\obj\Debug\netcoreapp2.1\BGCatalog.Models.pdb
