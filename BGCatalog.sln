@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGCatalog", "BGCatalog\BGCatalog.csproj", "{559095DD-CAE4-40D6-8A62-E570BE3C0A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BGCatalog.Web", "BGCatalog\BGCatalog.Web.csproj", "{559095DD-CAE4-40D6-8A62-E570BE3C0A0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

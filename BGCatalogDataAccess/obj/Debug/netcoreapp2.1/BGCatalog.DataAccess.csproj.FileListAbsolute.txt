@@ -1,0 +1,12 @@
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalog.DataAccess.deps.json
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalog.DataAccess.dll
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalog.DataAccess.pdb
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalog.Models.dll
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\bin\Debug\netcoreapp2.1\BGCatalog.Models.pdb
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.csprojAssemblyReference.cache
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.csproj.CopyComplete
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.dll
+C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalogDataAccess\obj\Debug\netcoreapp2.1\BGCatalog.DataAccess.pdb

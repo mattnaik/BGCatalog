@@ -1,0 +1,55 @@
+﻿@model BGCatalog.Web.Models.GamePlayModalViewModel
+
+
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title">Your plays for @Model.BoardgameName</h4>
+    <div class="modal-body">
+        <form asp-action="AddPlay" asp-controller="Home">
+            <div class="form-group">
+                <label for="BGSearch">Add a play</label>
+                <div class="input-group">
+                    <input type="text" id="AddPlay" name="AddPlay" autocomplete="off" placeholder="MM/DD/YYY" />
+                    <input type="hidden" id="gameid" name="gameid" value="@Model.BoardgameId" />
+                </div>
+            </div>
+            <div class="form-group">
+                <!-- Submit button -->
+                <button class="btn btn-primary " name="submit" type="submit">Submit</button>
+            </div>
+        </form>
+        @if (Model.BoardgamePlays == null || Model.BoardgamePlays.Count() == 0)
+        {
+            <i>You have no plays recorded yet</i>
+        }
+        else
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Number of plays</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        var Plays = Model.BoardgamePlays.GroupBy(p => p.DatePlayed).Select(x => new { DatePlayed = x.Key, Count = x.Count() });
+                        foreach (var play in Plays)
+                        {
+                            <tr>
+                                <td>@play.DatePlayed.ToShortDateString()</td>
+                                <td>@play.Count</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+        </div>
+
+
+    <script>
+        $('#AddPlay').datepicker();
+    </script>
+
