@@ -66,7 +66,7 @@ using BGCatalog.Models;
             WriteLiteral("</h4>\r\n    <div class=\"modal-body\">\r\n        ");
             EndContext();
             BeginContext(322, 653, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "87827f39cacf4f7c9a7194bd7d0aadf3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "442f3ec3bef54f2a92daa5704006ed66", async() => {
                 BeginContext(371, 321, true);
                 WriteLiteral(@"
             <div class=""form-group"">

@@ -6,13 +6,21 @@
 
   <ItemGroup>
     <Compile Remove="Areas\**" />
+    <Compile Remove="Identity\**" />
     <Content Remove="Areas\**" />
+    <Content Remove="Identity\**" />
     <EmbeddedResource Remove="Areas\**" />
+    <EmbeddedResource Remove="Identity\**" />
     <None Remove="Areas\**" />
+    <None Remove="Identity\**" />
   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="Views\Account\Login.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="ScaffoldingReadme.txt" />
   </ItemGroup>
 
   <ItemGroup>

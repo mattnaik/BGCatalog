@@ -132,7 +132,7 @@ WriteAttributeValue(" ", 544, messageClass, 545, 13, false);
             WriteLiteral("   \r\n    ");
             EndContext();
             BeginContext(788, 600, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05eb7e6666c94f7e915fb5f1caddf9ac", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b9974caf845b44d8a082cd510681b251", async() => {
                 BeginContext(837, 544, true);
                 WriteLiteral(@"
         <div class=""form-group"">
@@ -242,7 +242,7 @@ WriteAttributeValue(" ", 544, messageClass, 545, 13, false);
             WriteLiteral("</td>\r\n                    <td>");
             EndContext();
             BeginContext(2172, 131, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d946c8c147404f4fa231f6665e775b64", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7e11fdc197be4219939a034f5ce5c629", async() => {
                 BeginContext(2285, 14, false);
 #line 63 "C:\Users\mattn\Documents\Visual Studio 2017\Projects\BGCatalog\BGCatalog\Views\Home\Index.cshtml"
                                                                                                                                    Write(game.PlayCount);
@@ -284,7 +284,7 @@ WriteAttributeValue(" ", 544, messageClass, 545, 13, false);
             WriteLiteral("</td>\r\n                    <td>");
             EndContext();
             BeginContext(2334, 157, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a02701d88a314aecb7acf5c4544c86e1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4a754fc9881a4b4da6f9d241373c9712", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper>();
